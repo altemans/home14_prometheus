@@ -152,7 +152,7 @@ https://grafana.com/grafana/dashboards/1860-node-exporter-full/
 
 ![Screenshot](Screenshot_grafana03.png)
 
-Получаем готовый дашборд с выводом метрик. 
+Получаем готовый дашборд с выводом метрик. Отредактируем его название, добавим свое имя и фамилию.
 
 ![Screenshot](Screenshot_grafana04.png)
 
